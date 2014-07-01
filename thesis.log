@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.28)  27 JUN 2014 14:01
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.28)  1 JUL 2014 17:02
 entering extended mode
 **thesis.tex
 (C:\Users\Wendy\Documents\wwn20\Thesis\thesis.tex
@@ -20,6 +20,12 @@ LaTeX Warning: You have requested document class `Classes/PhDThesisPSnPDF',
 
 Document Class: PhDThesisPSnPDF 2013/12/10 version 1.0 by Krishna Kumar
 https://github.com/kks32/phd-thesis-template/
+
+Class PhDThesisPSnPDF Warning: You have chosen an option that generates only se
+lected chapters with references, if this was intentional, ignore this warning. 
+If not, please remove the option `chapter' from the document class and recompil
+e. Good luck with your writing! on input line 96.
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
 Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\fleqn.clo"
@@ -987,923 +993,97 @@ LaTeX Info: Redefining \nameref on input line 105.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-\PHD@Title=\box30
+ [10
+
+
+
+
+
+
+
+
+] (C:\Users\Wendy\Documents\wwn20\Thesis\Chapter4/chapter4.tex
+Chapter 4.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 111.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 11
-1.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 9.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 10
+.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 11
-1.
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 10
+.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 11
-1.
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 10
+.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 11
-1.
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 10
+.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 111.
-
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 10.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 111.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 111.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 111.
-\PHD@crest=\box31
-
-<Figs/University_Crest.pdf, id=303, 59.22125pt x 69.25874pt>
-File: Figs/University_Crest.pdf Graphic file (type pdf)
-
-<use Figs/University_Crest.pdf>
-Package pdftex.def Info: Figs/University_Crest.pdf used on input line 111.
-(pdftex.def)             Requested size: 109.36528pt x 127.90576pt.
-\PHD@author=\box32
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 111.
-\PHD@dept=\box33
-\PHD@submission=\box34
-\PHD@collegedate=\box35
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 111.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 111.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 111.
-\PHD@titlepagespacing=\skip80
-File: Figs/University_Crest.pdf Graphic file (type pdf)
- <use Figs/University_Crest.pdf>
-Package pdftex.def Info: Figs/University_Crest.pdf used on input line 111.
-(pdftex.def)             Requested size: 109.36528pt x 127.90576pt.
- [1
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
+ [57
 
 
 
-{C:/Users/Wendy/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/We
-ndy/Documents/wwn20/Thesis/Figs/University_Crest.pdf>]
-(C:\Users\Wendy\Documents\wwn20\Thesis\Dedication/dedication.tex [2
 
 
-]) [3]
-(C:\Users\Wendy\Documents\wwn20\Thesis\Declaration/declaration.tex [4
-
-
-
-])
-[5
-
-] (C:\Users\Wendy\Documents\wwn20\Thesis\Acknowledgement/acknowledgement.tex
-[6
-
-
-
-]) [7
-
-] (C:\Users\Wendy\Documents\wwn20\Thesis\Abstract/abstract.tex [8
-
-
-
-])
-[9
-
-] [10
-
-
-] (C:\Users\Wendy\Documents\wwn20\Thesis\thesis.toc
+{C:/Users/Wendy/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
- [11] [12])
-\tf@toc=\write5
- [13]
-[14
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 36.
 
-] (C:\Users\Wendy\Documents\wwn20\Thesis\thesis.lof
-Overfull \hbox (13.00266pt too wide) in paragraph at lines 6--6
- [][] []\T1/ptm/m/n/12 (a) Schematic of band struc-tures of quan-tum well clas-
-si-fi-ca-tions. (b) Schematic 
- []
-
-
-Overfull \hbox (58.85423pt too wide) in paragraph at lines 7--7
- \T1/ptm/m/n/12 3D $[][][]$, (c) 2D $[][][]$, (d) 2D mul-ti-lay-ered $[][][][][
-][]$, 
- []
-
-
-Overfull \hbox (1.61531pt too wide) in paragraph at lines 7--7
- \T1/ptm/m/n/12 and (e) 2D di-ammo-nium $[][][]$ viewed along the crys-tal-lo-g
-raphic 
- []
-
-
-Underfull \vbox (badness 4378) has occurred while \output is active []
-
- [15]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [16]
-Underfull \vbox (badness 2119) has occurred while \output is active []
-
- [17]
-
-LaTeX Warning: Reference `fig-shimizu2006-2' on page xviii undefined on input l
-ine 20.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [18]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [19]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [20]
-Overfull \hbox (3.37889pt too wide) in paragraph at lines 42--42
- [][] []\T1/ptm/m/n/12 (a) Re-flec-tion and (b) trans-mis-sion spec-tra for spi
-n coated films on a silanised 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [21]
-Underfull \vbox (badness 7944) has occurred while \output is active []
-
- [22]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [23]
-Overfull \hbox (5.93517pt too wide) in paragraph at lines 76--76
- \T1/ptm/m/n/12 plas-monic grat-ing modes (res-o-nance anoma-lies) by black das
-hed lines/arrows 
- []
-
-
-Underfull \vbox (badness 5847) has occurred while \output is active []
-
- [24])
-\tf@lof=\write6
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [25]
-(C:\Users\Wendy\Documents\wwn20\Thesis\thesis.nls [26]) [27
-
-] [28
-
-]
-(C:\Users\Wendy\Documents\wwn20\Thesis\Chapter1/chapter1.tex
-Chapter 1.
-<Chapter1/Figures/Fig1.pdf, id=759, 910.602pt x 284.62335pt>
-File: Chapter1/Figures/Fig1.pdf Graphic file (type pdf)
-
-<use Chapter1/Figures/Fig1.pdf>
-Package pdftex.def Info: Chapter1/Figures/Fig1.pdf used on input line 16.
-(pdftex.def)             Requested size: 437.46112pt x 136.73491pt.
- [1
-
-
-]
-<Chapter1/Figures/Fig2.pdf, id=778, 996.00108pt x 398.32814pt>
-File: Chapter1/Figures/Fig2.pdf Graphic file (type pdf)
-
-<use Chapter1/Figures/Fig2.pdf>
-Package pdftex.def Info: Chapter1/Figures/Fig2.pdf used on input line 26.
-(pdftex.def)             Requested size: 437.46112pt x 174.95494pt.
- [2 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter1/Figures/Fig1.pdf>] [3 <C:/U
-sers/Wendy/Documents/wwn20/Thesis/Chapter1/Figures/Fig2.pdf>]) [4] (C:\Users\We
-ndy\Documents\wwn20\Thesis\Chapter2/chapter2.tex
-Chapter 2.
-[5
-
-
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6pdfTeX warning (ext4): destination with the same identifier (name{equation.2
-.1.1}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.35 
-     pdfTeX warning (ext4): destination with the same identifier (name{equation
-.2.1.2}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.35 
-     ] <Chapter2/Figures/Fig1.pdf, id=831, 711.37767pt x 554.91318pt>
-File: Chapter2/Figures/Fig1.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig1.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig1.pdf used on input line 39.
-(pdftex.def)             Requested size: 437.46112pt x 341.23994pt.
- [7 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig1.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8]
-[9] <Chapter2/Figures/Fig2.pdf, id=878, 939.02821pt x 540.70004pt>
-File: Chapter2/Figures/Fig2.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig2.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig2.pdf used on input line 76.
-(pdftex.def)             Requested size: 437.46112pt x 251.89319pt.
- [10 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig2.pdf>]
-
-Package natbib Warning: Citation `Ishihara1992a' on page 11 undefined on input 
-line 99.
-
-[11]
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 101.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.106 ...organic molecules have larger $E_g$ (\sim
-                                                  6$\,eV) than the inorganic...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Reference `fig-structure' on page 12 undefined on input line 106
-.
-
-<Chapter2/Figures/Fig3.pdf, id=934, 725.5908pt x 455.30101pt>
-File: Chapter2/Figures/Fig3.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig3.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig3.pdf used on input line 110.
-(pdftex.def)             Requested size: 349.97023pt x 219.60493pt.
- [12] [13 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig3.pdf>]
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 122.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 122.
-
-! Undefined control sequence.
-<recently read> \moresim 
-                         
-l.123 ...and at high temperatures, above $\moresim
-                                                   65^{\circ}$C (phase IV), ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Reference `fig-billing2008-1' on page 14 undefined on input line
- 123.
-
-<Chapter2/Figures/Fig4.pdf, id=991, 910.602pt x 426.8748pt>
-File: Chapter2/Figures/Fig4.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig4.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig4.pdf used on input line 129.
-(pdftex.def)             Requested size: 437.46112pt x 205.07344pt.
- [14] [15 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig4.pdf>]
-! Undefined control sequence.
-l.145 \subsubsubsection
-                       {Layered solution method}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (47.11104pt too wide) in paragraph at lines 145--147
-[]\T1/ptm/m/n/12 Layered so-lu-tion method A lay-ered so-lu-tion method can be 
-used to cre-ate $\OT1/ztmcm/m/n/12 ([][][][][][][][][][])[][][]$
- []
-
-<Chapter2/Figures/Fig5.pdf, id=1038, 284.62335pt x 426.8748pt>
-File: Chapter2/Figures/Fig5.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig5.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig5.pdf used on input line 150.
-(pdftex.def)             Requested size: 153.11406pt x 229.64915pt.
- [16]
-
-Package natbib Warning: Citation `audebert2009' on page 17 undefined on input l
-ine 160.
-
-
-Underfull \vbox (badness 3219) has occurred while \output is active []
-
- [17 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig5.pdf>]
-<Chapter2/Figures/Fig6.pdf, id=1065, 697.28505pt x 241.8636pt>
-File: Chapter2/Figures/Fig6.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig6.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig6.pdf used on input line 166.
-(pdftex.def)             Requested size: 437.46112pt x 151.7401pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[18] [19 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig6.pdf>]
-<Chapter2/Figures/Fig7.pdf, id=1100, 512.1534pt x 440.96745pt>
-File: Chapter2/Figures/Fig7.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig7.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig7.pdf used on input line 182.
-(pdftex.def)             Requested size: 437.46112pt x 376.67447pt.
-
-<Chapter2/Figures/Fig8.pdf, id=1105, 426.8748pt x 241.8636pt>
-File: Chapter2/Figures/Fig8.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig8.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig8.pdf used on input line 191.
-(pdftex.def)             Requested size: 349.97023pt x 198.30359pt.
- [20 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig7.pdf>]
-
-LaTeX Warning: Reference `fig-chondrousdis2000-2' on page 21 undefined on input
- line 197.
-
-[21 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig8.pdf>]
-<Chapter2/Figures/Fig9.pdf, id=1133, 341.47577pt x 270.41025pt>
-File: Chapter2/Figures/Fig9.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig9.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig9.pdf used on input line 201.
-(pdftex.def)             Requested size: 218.73056pt x 173.2105pt.
-
-
-Package natbib Warning: Citation `Prakash2009' on page 22 undefined on input li
-ne 207.
-
-
-Package natbib Warning: Citation `Prakash2009' on page 22 undefined on input li
-ne 207.
-
-
-LaTeX Warning: Reference `fig-kitazawa1998-1' on page 22 undefined on input lin
-e 209.
-
-
-LaTeX Warning: Reference `fig-kitazawa1998-2' on page 22 undefined on input lin
-e 209.
-
-[22 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig9.pdf>]
-<Chapter2/Figures/Fig10.pdf, id=1155, 526.48697pt x 583.33932pt>
-File: Chapter2/Figures/Fig10.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig10.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig10.pdf used on input line 215.
-(pdftex.def)             Requested size: 349.97023pt x 387.77336pt.
-
-<Chapter2/Figures/Fig11.pdf, id=1163, 711.37767pt x 355.68884pt>
-File: Chapter2/Figures/Fig11.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig11.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig11.pdf used on input line 224.
-(pdftex.def)             Requested size: 437.46112pt x 218.72835pt.
-
-Overfull \hbox (14.25713pt too wide) in paragraph at lines 233--234
-\T1/ptm/m/n/12 Umebayashi \T1/ptm/m/it/12 et al. \T1/ptm/m/n/12 cal-cu-lated th
-e elec-tronic struc-ture of $[][]$PI and its 3D ex-ten-sion $[][][][][][]$
- []
-
-[23] [24 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig10.pdf>]
-<Chapter2/Figures/Fig12.pdf, id=1190, 739.92432pt x 626.0991pt>
-File: Chapter2/Figures/Fig12.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig12.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig12.pdf used on input line 238.
-(pdftex.def)             Requested size: 437.46112pt x 370.1691pt.
-
-Underfull \vbox (badness 1168) has occurred while \output is active []
-
- [25 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig11.pdf>] [26 <C
-:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig12.pdf>]
-<Chapter2/Figures/Fig13.pdf, id=1233, 1010.0937pt x 469.51411pt>
-File: Chapter2/Figures/Fig13.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig13.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig13.pdf used on input line 251.
-(pdftex.def)             Requested size: 437.46112pt x 203.34146pt.
-
-Overfull \hbox (4.33824pt too wide) in paragraph at lines 256--257
-\T1/ptm/m/n/12 lated from Kramers-Kronig anal-y-sis of polarisation-dependent r
-e-flec-tiv-ity spec-tra [Fig. [][]2.14[][]].
- []
-
-[27 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig13.pdf>]
-<Chapter2/Figures/Fig14.pdf, id=1256, 626.0991pt x 298.716pt>
-File: Chapter2/Figures/Fig14.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig14.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig14.pdf used on input line 260.
-(pdftex.def)             Requested size: 437.46112pt x 208.71233pt.
-
-Underfull \vbox (badness 5954) has occurred while \output is active []
-
- [28 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig14.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [29]
-<Chapter2/Figures/Fig15.pdf, id=1292, 597.55246pt x 298.716pt>
-File: Chapter2/Figures/Fig15.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig15.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig15.pdf used on input line 282.
-(pdftex.def)             Requested size: 349.97023pt x 174.95554pt.
-
-<Chapter2/Figures/Fig16.pdf, id=1295, 654.40488pt x 440.96745pt>
-File: Chapter2/Figures/Fig16.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig16.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig16.pdf used on input line 289.
-(pdftex.def)             Requested size: 437.46112pt x 294.78725pt.
-
-
-LaTeX Warning: Reference `fig-shimizu2006-2' on page 30 undefined on input line
- 290.
-
-
-LaTeX Warning: Reference `fig-shimizu2006-2' on page 30 undefined on input line
- 290.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[30 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig15.pdf>]
-[31 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig16.pdf>]
-<Chapter2/Figures/Fig17.pdf, id=1334, 341.47577pt x 227.6505pt>
-File: Chapter2/Figures/Fig17.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig17.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig17.pdf used on input line 303.
-(pdftex.def)             Requested size: 349.97023pt x 233.31548pt.
-
-<Chapter2/Figures/Fig18.pdf, id=1342, 939.02821pt x 412.6617pt>
-File: Chapter2/Figures/Fig18.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig18.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig18.pdf used on input line 313.
-(pdftex.def)             Requested size: 437.46112pt x 192.24461pt.
- [32]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<Chapter2/Figures/Fig19.pdf, id=1357, 199.22429pt x 128.1588pt>
-File: Chapter2/Figures/Fig19.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig19.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig19.pdf used on input line 325.
-(pdftex.def)             Requested size: 262.47934pt x 168.85332pt.
- [33 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig17.pdf>]
-Overfull \hbox (41.16862pt too wide) in paragraph at lines 330--331
-[]\T1/ptm/m/n/12 2,$\OT1/ztmcm/m/n/12 2[]$\T1/ptm/m/n/12 -biimidazole ($[][][][
-][][]$) was in-cor-po-rated into the per-ovskite struc-ture to form $\OT1/ztmcm
-/m/n/12 ([][][][][][])[][]$\T1/ptm/m/n/12 ,
- []
-
-
-Underfull \vbox (badness 1622) has occurred while \output is active []
-
- [34 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig18.pdf>] [35 <C
-:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig19.pdf>]
-<Chapter2/Figures/Fig20.pdf, id=1415, 910.602pt x 213.4374pt>
-File: Chapter2/Figures/Fig20.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig20.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig20.pdf used on input line 344.
-(pdftex.def)             Requested size: 437.46112pt x 102.53671pt.
-
-<Chapter2/Figures/Fig21.pdf, id=1428, 682.95152pt x 540.70004pt>
-File: Chapter2/Figures/Fig21.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig21.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig21.pdf used on input line 352.
-(pdftex.def)             Requested size: 437.46112pt x 346.34386pt.
- [36 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig20.pdf>]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<Chapter2/Figures/Fig22.pdf, id=1449, 398.32814pt x 213.4374pt>
-File: Chapter2/Figures/Fig22.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig22.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig22.pdf used on input line 361.
-(pdftex.def)             Requested size: 349.97023pt x 187.53236pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Overfull \hbox (44.69836pt too wide) in paragraph at lines 366--367
-[]\T1/ptm/m/n/12 Hattori \T1/ptm/m/it/12 et al. \T1/ptm/m/n/12 made sim-i-lar E
-L de-vices us-ing both PAPI, CHPI, and PBPI ($[][][][][][][][][][]\OT1/ztmcm/m/
-n/12 )[][][]$\T1/ptm/m/n/12 ).
- []
-
-[37] <Chapter2/Figures/Fig23.pdf, id=1459, 654.40488pt x 384.23549pt>
-File: Chapter2/Figures/Fig23.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig23.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig23.pdf used on input line 370.
-(pdftex.def)             Requested size: 437.46112pt x 256.86186pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<Chapter2/Figures/Fig24.pdf, id=1466, 412.6617pt x 142.25145pt>
-File: Chapter2/Figures/Fig24.pdf Graphic file (type pdf)
-
-<use Chapter2/Figures/Fig24.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig24.pdf used on input line 378.
-(pdftex.def)             Requested size: 349.97023pt x 120.64081pt.
-
-Overfull \hbox (31.09798pt too wide) in paragraph at lines 375--382
-\T1/ptm/m/n/12 were de-posited onto an OTS coated, CuPc coated, or bare sub-str
-ate (OTS=octadecyltrichlorosilane,
- []
-
-
-Underfull \vbox (badness 1253) has occurred while \output is active []
-
- [38 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig21.pdf>]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Package natbib Warning: Citation `Kagan199a' on page 39 undefined on input line
- 383.
-
-[39 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig22.pdf>]
-[40 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig23.pdf> <C:/User
-s/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig24.pdf>]) [41]
-(C:\Users\Wendy\Documents\wwn20\Thesis\Chapter3/chapter3.tex [42
-
-
-
-]
-Chapter 3.
-[43pdfTeX warning (ext4): destination with the same identifier (name{equation.3
-.2.1}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.26 \begin{align}
-                  ]pdfTeX warning (ext4): destination with the same identifier 
-(name{equation.3.2.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.29 \end{align}
-                pdfTeX warning (ext4): destination with the same identifier (na
-me{equation.3.2.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.29 \end{align}
-                pdfTeX warning (ext4): destination with the same identifier (na
-me{equation.3.2.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.34 \begin{equation}
-                     
-<Chapter3/Figures/Fig1.pdf, id=1553, 611.76553pt x 199.22429pt>
-File: Chapter3/Figures/Fig1.pdf Graphic file (type pdf)
-
-<use Chapter3/Figures/Fig1.pdf>
-Package pdftex.def Info: Chapter3/Figures/Fig1.pdf used on input line 42.
-(pdftex.def)             Requested size: 349.97023pt x 113.9694pt.
-pdfTeX warning (ext4): destination with the same identifier (name{equation.3.2.
-4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.48 \begin{subequations}
-                         pdfTeX warning (ext4): destination with the same ident
-ifier (name{equation.3.2.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.54 \end{align}
-                pdfTeX warning (ext4): destination with the same identifier (na
-me{equation.3.2.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.54 \end{align}
-                pdfTeX warning (ext4): destination with the same identifier (na
-me{equation.3.2.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.54 \end{align}
-                
-
-! LaTeX Error: \begin{subequations} on input line 48 ended by \end{subequation}
-.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.55 \end{subequation}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-pdfTeX warning (ext4): destination with the same identifier (name{equation.3.2.
-4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.57 \begin{equation}
-                      [44pdfTeX warning (ext4): destination with the same ident
-ifier (name{equation.3.2.2}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.57 \begin{equation}
-                      <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/F
-ig1.pdf>]pdfTeX warning (ext4): destination with the same identifier (name{equa
-tion.3.2.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.71 \end{align}
-                pdfTeX warning (ext4): destination with the same identifier (na
-me{equation.3.2.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.71 \end{align}
-                pdfTeX warning (ext4): destination with the same identifier (na
-me{equation.3.2.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.71 \end{align}
-                
-
-! LaTeX Error: \begin{subequations} on input line 65 ended by \end{subequation}
-.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.72 \end{subequation}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-pdfTeX warning (ext4): destination with the same identifier (name{equation.3.2.
-4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.74 \begin{equation}
-                     pdfTeX warning (ext4): destination with the same identifie
-r (name{equation.3.2.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.85 \end{align}
-                pdfTeX warning (ext4): destination with the same identifier (na
-me{equation.3.2.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.85 \end{align}
-                
-<Chapter3/Figures/Fig2.pdf, id=1581, 654.40488pt x 313.04956pt>
-File: Chapter3/Figures/Fig2.pdf Graphic file (type pdf)
-
-<use Chapter3/Figures/Fig2.pdf>
-Package pdftex.def Info: Chapter3/Figures/Fig2.pdf used on input line 96.
-(pdftex.def)             Requested size: 349.97023pt x 167.42014pt.
- [45pdfTeX warning (ext4): destination with the same identifier (name{equation.
-3.2.5}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.100 
-      ] [46 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig2.pdf>]
-
-! LaTeX Error: \begin{equation} on input line 113 ended by \end{w}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.118 w
-       here the label $m$ indicates the order of grating vector $G_m$ needed...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.118 w
-       here the label $m$ indicates the order of grating vector $G_m$ needed...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Display math should end with $$.
-<to be read again> 
-                   \endgroup 
-l.118 w
-       here the label $m$ indicates the order of grating vector $G_m$ needed...
-The `$' that I just saw supposedly matches a previous `$$'.
-So I shall assume that you typed `$$' both times.
-
-<Chapter3/Figures/Fig3.pdf, id=1620, 853.7496pt x 853.7496pt>
-File: Chapter3/Figures/Fig3.pdf Graphic file (type pdf)
-
-<use Chapter3/Figures/Fig3.pdf>
-Package pdftex.def Info: Chapter3/Figures/Fig3.pdf used on input line 142.
-(pdftex.def)             Requested size: 349.97023pt x 349.97447pt.
-
-<Chapter3/Figures/Fig4.pdf, id=1623, 722.7pt x 542.025pt>
-File: Chapter3/Figures/Fig4.pdf Graphic file (type pdf)
-
-<use Chapter3/Figures/Fig4.pdf>
-Package pdftex.def Info: Chapter3/Figures/Fig4.pdf used on input line 152.
-(pdftex.def)             Requested size: 262.47934pt x 196.8574pt.
-
-Overfull \hbox (0.25917pt too wide) in paragraph at lines 149--156
-\T1/ptm/m/n/12 mum...occurred within a range of wave-lengths not greater than t
-he dis-tance be-tween sodium
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [47]
-Underfull \vbox (badness 1983) has occurred while \output is active []
-
- [48 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig3.pdf>]
-! Undefined control sequence.
-l.159 ... are excited, e.\,g.\, for $\phi=0^{\cric
-                                                  }$ in TM polarisation, but...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-<Chapter3/Figures/Fig5.pdf, id=1681, 256.07669pt x 440.96745pt>
-File: Chapter3/Figures/Fig5.pdf Graphic file (type pdf)
-
-<use Chapter3/Figures/Fig5.pdf>
-Package pdftex.def Info: Chapter3/Figures/Fig5.pdf used on input line 164.
-(pdftex.def)             Requested size: 218.73056pt x 376.67447pt.
- [49 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig4.pdf>] [50 <C:
-/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig5.pdf>]
-
-Package natbib Warning: Citation `Sondergaard2012' on page 51 undefined on inpu
-t line 178.
-
-<Chapter3/Figures/Fig6.pdf, id=1727, 440.96745pt x 313.04956pt>
-File: Chapter3/Figures/Fig6.pdf Graphic file (type pdf)
-
-<use Chapter3/Figures/Fig6.pdf>
-Package pdftex.def Info: Chapter3/Figures/Fig6.pdf used on input line 182.
-(pdftex.def)             Requested size: 262.47934pt x 186.34561pt.
-
-! Undefined control sequence.
-l.189 ...icles (NPs), if the diameter $d\ll\labmda
-                                                  $, the phase of the $E$-fi...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [51]
-<Chapter3/Figures/Fig7.pdf, id=1748, 1138.2525pt x 284.62335pt>
-File: Chapter3/Figures/Fig7.pdf Graphic file (type pdf)
-
-<use Chapter3/Figures/Fig7.pdf>
-Package pdftex.def Info: Chapter3/Figures/Fig7.pdf used on input line 214.
-(pdftex.def)             Requested size: 437.46112pt x 109.38705pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [52pdfTeX warning (ext4): destination with the same identifier (name{equation.
-3.4.1}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.218 
-      pdfTeX warning (ext4): destination with the same identifier (name{equatio
-n.3.4.2}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.218 
-       <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig6.pdf>]
-! Undefined control sequence.
-<argument> ...} &= k\textrm {Im}[\alpha ] = 4\pik 
-                                                  \left (\frac {d}{2}\right ...
-l.225 \end{align}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-pdfTeX warning (ext4): destination with the same identifier (name{equation.3.4.
-1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.225 \end{align}
-                 
-! Undefined control sequence.
-<argument> ...} &= k\textrm {Im}[\alpha ] = 4\pik 
-                                                  \left (\frac {d}{2}\right ...
-l.225 \end{align}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-pdfTeX warning (ext4): destination with the same identifier (name{equation.3.4.
-2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.225 \end{align}
-                 
-<Chapter3/Figures/Fig8.pdf, id=1768, 398.32814pt x 270.41025pt>
-File: Chapter3/Figures/Fig8.pdf Graphic file (type pdf)
-
-<use Chapter3/Figures/Fig8.pdf>
-Package pdftex.def Info: Chapter3/Figures/Fig8.pdf used on input line 230.
-(pdftex.def)             Requested size: 262.47934pt x 178.19072pt.
-
-! Misplaced alignment tab character &.
-l.236 ...ie theory \cite{Maier2007,} [CHECK BORN &
-                                                   WOLF], where the $E$-fiel...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-<Chapter3/Figures/Fig9.pdf, id=1775, 483.84766pt x 426.8748pt>
-File: Chapter3/Figures/Fig9.pdf Graphic file (type pdf)
-
-<use Chapter3/Figures/Fig9.pdf>
-Package pdftex.def Info: Chapter3/Figures/Fig9.pdf used on input line 239.
-(pdftex.def)             Requested size: 262.47934pt x 231.57066pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [53 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig7.pdf>]
-<Chapter3/Figures/Fig10.pdf, id=1807, 768.35052pt x 398.32814pt>
-File: Chapter3/Figures/Fig10.pdf Graphic file (type pdf)
-
-<use Chapter3/Figures/Fig10.pdf>
-Package pdftex.def Info: Chapter3/Figures/Fig10.pdf used on input line 247.
-(pdftex.def)             Requested size: 349.97023pt x 181.428pt.
- [54 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig8.pdf>]) [55 <C
-:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig9.pdf>] [56 <C:/Users/
-Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig10.pdf>] (C:\Users\Wendy\Docum
-ents\wwn20\Thesis\Chapter4/chapter4.tex
-Chapter 4.
-[57
-
-
-
-]
 
 Package natbib Warning: Citation `snowjet1' on page 58 undefined on input line 
 36.
 
-[58] <Chapter4/Figures/Fig1.pdf, id=1874, 774.01169pt x 739.92432pt>
+[58]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 38.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 38.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 38.
+
+<Chapter4/Figures/Fig1.pdf, id=97, 774.01169pt x 739.92432pt>
 File: Chapter4/Figures/Fig1.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/Fig1.pdf>
 Package pdftex.def Info: Chapter4/Figures/Fig1.pdf used on input line 41.
 (pdftex.def)             Requested size: 349.97023pt x 334.5548pt.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 47.
 
-<Chapter4/Figures/Fig2.pdf, id=1878, 597.61269pt x 213.4374pt>
+<Chapter4/Figures/Fig2.pdf, id=101, 597.61269pt x 213.4374pt>
 File: Chapter4/Figures/Fig2.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/Fig2.pdf>
@@ -1914,7 +1094,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [59]
 [60 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter4/Figures/Fig1.pdf>]
-<Chapter4/Figures/Fig3.pdf, id=1908, 597.61269pt x 213.4374pt>
+<Chapter4/Figures/Fig3.pdf, id=133, 597.61269pt x 213.4374pt>
 File: Chapter4/Figures/Fig3.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/Fig3.pdf>
@@ -1922,14 +1102,14 @@ Package pdftex.def Info: Chapter4/Figures/Fig3.pdf used on input line 59.
 (pdftex.def)             Requested size: 437.46112pt x 156.24113pt.
  [61 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter4/Figures/Fig2.pdf> <C:/User
 s/Wendy/Documents/wwn20/Thesis/Chapter4/Figures/Fig3.pdf>] <Chapter4/Figures/Fi
-g4.pdf, id=1934, 597.61269pt x 711.43796pt>
+g4.pdf, id=160, 597.61269pt x 711.43796pt>
 File: Chapter4/Figures/Fig4.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/Fig4.pdf>
 Package pdftex.def Info: Chapter4/Figures/Fig4.pdf used on input line 68.
 (pdftex.def)             Requested size: 349.97023pt x 416.64005pt.
  [62 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter4/Figures/Fig4.pdf>]
-<Chapter4/Figures/Fig5.pdf, id=1952, 774.01169pt x 1081.27965pt>
+<Chapter4/Figures/Fig5.pdf, id=180, 774.01169pt x 1081.27965pt>
 File: Chapter4/Figures/Fig5.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/Fig5.pdf>
@@ -1940,7 +1120,7 @@ Package pdftex.def Info: Chapter4/Figures/Fig5.pdf used on input line 77.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 84.
 
-<Chapter4/Figures/Fig6.pdf, id=1954, 597.61269pt x 711.43796pt>
+<Chapter4/Figures/Fig6.pdf, id=182, 597.61269pt x 711.43796pt>
 File: Chapter4/Figures/Fig6.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/Fig6.pdf>
@@ -1951,7 +1131,7 @@ Package pdftex.def Info: Chapter4/Figures/Fig6.pdf used on input line 86.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 93.
 
-<Chapter4/Figures/Fig7.pdf, id=1959, 597.61269pt x 640.25195pt>
+<Chapter4/Figures/Fig7.pdf, id=187, 597.61269pt x 640.25195pt>
 File: Chapter4/Figures/Fig7.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/Fig7.pdf>
@@ -1962,7 +1142,7 @@ Package pdftex.def Info: Chapter4/Figures/Fig7.pdf used on input line 95.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 102.
 
-<Chapter4/Figures/Fig8.pdf, id=1970, 754.07724pt x 170.73788pt>
+<Chapter4/Figures/Fig8.pdf, id=201, 754.07724pt x 170.73788pt>
 File: Chapter4/Figures/Fig8.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/Fig8.pdf>
@@ -1977,382 +1157,19 @@ r in the at-mo-sphere. Fig.[][]4.8[][](a)
 ) [64] [65 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter4/Figures/Fig5.pdf>]
 [66 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter4/Figures/Fig6.pdf>] [67 <C:/
 Users/Wendy/Documents/wwn20/Thesis/Chapter4/Figures/Fig7.pdf>] [68 <C:/Users/We
-ndy/Documents/wwn20/Thesis/Chapter4/Figures/Fig8.pdf>]
-(C:\Users\Wendy\Documents\wwn20\Thesis\Chapter5/chapter5.tex
-Chapter 5.
-<Chapter5/Figures/Fig1.pdf, id=2076, 910.66223pt x 512.1534pt>
-File: Chapter5/Figures/Fig1.pdf Graphic file (type pdf)
+ndy/Documents/wwn20/Thesis/Chapter4/Figures/Fig8.pdf>] [116
 
-<use Chapter5/Figures/Fig1.pdf>
-Package pdftex.def Info: Chapter5/Figures/Fig1.pdf used on input line 28.
-(pdftex.def)             Requested size: 349.97023pt x 196.81627pt.
- [69
+
+
 
 
 
 ]
-<Chapter5/Figures/Fig2.pdf, id=2089, 1138.2525pt x 569.12625pt>
-File: Chapter5/Figures/Fig2.pdf Graphic file (type pdf)
+(C:\Users\Wendy\Documents\wwn20\Thesis\thesis.bbl [117
 
-<use Chapter5/Figures/Fig2.pdf>
-Package pdftex.def Info: Chapter5/Figures/Fig2.pdf used on input line 38.
-(pdftex.def)             Requested size: 437.46112pt x 218.72783pt.
- [70 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter5/Figures/Fig1.pdf>]
-<Chapter5/Figures/Fig3.pdf, id=2122, 597.61269pt x 569.12625pt>
-File: Chapter5/Figures/Fig3.pdf Graphic file (type pdf)
 
-<use Chapter5/Figures/Fig3.pdf>
-Package pdftex.def Info: Chapter5/Figures/Fig3.pdf used on input line 48.
-(pdftex.def)             Requested size: 349.97023pt x 333.29791pt.
-
-Underfull \vbox (badness 1194) has occurred while \output is active []
-
- [71 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter5/Figures/Fig2.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [72 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter5/Figures/Fig3.pdf>]
-<Chapter5/Figures/Fig4.pdf, id=2184, 626.0991pt x 455.30101pt>
-File: Chapter5/Figures/Fig4.pdf Graphic file (type pdf)
-
-<use Chapter5/Figures/Fig4.pdf>
-Package pdftex.def Info: Chapter5/Figures/Fig4.pdf used on input line 67.
-(pdftex.def)             Requested size: 349.97023pt x 254.4944pt.
- [73 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter5/Figures/Fig4.pdf>]
-<Chapter5/Figures/Fig5.pdf, id=2220, 455.30101pt x 455.30101pt>
-File: Chapter5/Figures/Fig5.pdf Graphic file (type pdf)
-
-<use Chapter5/Figures/Fig5.pdf>
-Package pdftex.def Info: Chapter5/Figures/Fig5.pdf used on input line 76.
-(pdftex.def)             Requested size: 349.97023pt x 349.97844pt.
- [74 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter5/Figures/Fig5.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [75])
-[76] (C:\Users\Wendy\Documents\wwn20\Thesis\Chapter6/chapter6.tex
-Chapter 6.
-[77
-
-
-
-] <Chapter6/Figures/Fig1.pdf, id=2286, 1280.50392pt x 597.55246pt>
-File: Chapter6/Figures/Fig1.pdf Graphic file (type pdf)
-
-<use Chapter6/Figures/Fig1.pdf>
-Package pdftex.def Info: Chapter6/Figures/Fig1.pdf used on input line 25.
-(pdftex.def)             Requested size: 437.46112pt x 204.14076pt.
-
-<Chapter6/Figures/Fig2.pdf, id=2292, 455.30101pt x 483.84766pt>
-File: Chapter6/Figures/Fig2.pdf Graphic file (type pdf)
-
-<use Chapter6/Figures/Fig2.pdf>
-Package pdftex.def Info: Chapter6/Figures/Fig2.pdf used on input line 32.
-(pdftex.def)             Requested size: 349.97023pt x 371.92152pt.
- [78]
-<Chapter6/Figures/Fig3.pdf, id=2302, 722.7pt x 469.51411pt>
-File: Chapter6/Figures/Fig3.pdf Graphic file (type pdf)
-
-<use Chapter6/Figures/Fig3.pdf>
-Package pdftex.def Info: Chapter6/Figures/Fig3.pdf used on input line 40.
-(pdftex.def)             Requested size: 437.46112pt x 284.20378pt.
- [79 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter6/Figures/Fig1.pdf>]
-<Chapter6/Figures/Fig4.pdf, id=2322, 1280.50392pt x 597.55246pt>
-File: Chapter6/Figures/Fig4.pdf Graphic file (type pdf)
-
-<use Chapter6/Figures/Fig4.pdf>
-Package pdftex.def Info: Chapter6/Figures/Fig4.pdf used on input line 50.
-(pdftex.def)             Requested size: 437.46112pt x 204.14076pt.
-
-! Undefined control sequence.
-l.54 ...not well separated islands. Annealed 8,\nm
-                                                   Ag MIFs consist of ellips...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[80 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter6/Figures/Fig2.pdf>]
-<Chapter6/Figures/Fig5.pdf, id=2336, 455.30101pt x 483.84766pt>
-File: Chapter6/Figures/Fig5.pdf Graphic file (type pdf)
-
-<use Chapter6/Figures/Fig5.pdf>
-Package pdftex.def Info: Chapter6/Figures/Fig5.pdf used on input line 58.
-(pdftex.def)             Requested size: 349.97023pt x 371.92152pt.
-
-<Chapter6/Figures/Fig6.pdf, id=2340, 1081.27965pt x 426.8748pt>
-File: Chapter6/Figures/Fig6.pdf Graphic file (type pdf)
-
-<use Chapter6/Figures/Fig6.pdf>
-Package pdftex.def Info: Chapter6/Figures/Fig6.pdf used on input line 68.
-(pdftex.def)             Requested size: 437.46112pt x 172.70747pt.
-
-Underfull \vbox (badness 5985) has occurred while \output is active []
-
- [81 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter6/Figures/Fig3.pdf>]
-<Chapter6/Figures/Fig7.pdf, id=2364, 722.7pt x 469.51411pt>
-File: Chapter6/Figures/Fig7.pdf Graphic file (type pdf)
-
-<use Chapter6/Figures/Fig7.pdf>
-Package pdftex.def Info: Chapter6/Figures/Fig7.pdf used on input line 76.
-(pdftex.def)             Requested size: 437.46112pt x 284.20378pt.
-
-<Chapter6/Figures/Fig8.pdf, id=2366, 768.35052pt x 768.35052pt>
-File: Chapter6/Figures/Fig8.pdf Graphic file (type pdf)
-
-<use Chapter6/Figures/Fig8.pdf>
-Package pdftex.def Info: Chapter6/Figures/Fig8.pdf used on input line 85.
-(pdftex.def)             Requested size: 437.46112pt x 437.46022pt.
- [82 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter6/Figures/Fig4.pdf>] [83 <C:
-/Users/Wendy/Documents/wwn20/Thesis/Chapter6/Figures/Fig5.pdf>]
-Overfull \hbox (3.48645pt too wide) in paragraph at lines 92--93
-\T1/ptm/m/n/12 Nanosphere lithog-ra-phy in-volves the use of closely-packed 2D 
-ar-rays of nano-/microparticles
- []
-
-
-Underfull \vbox (badness 1616) has occurred while \output is active []
-
- [84 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter6/Figures/Fig6.pdf>] [85 <C:
-/Users/Wendy/Documents/wwn20/Thesis/Chapter6/Figures/Fig7.pdf>]
-<Chapter6/Figures/Fig9.pdf, id=2460, 512.1534pt x 540.70004pt>
-File: Chapter6/Figures/Fig9.pdf Graphic file (type pdf)
-
-<use Chapter6/Figures/Fig9.pdf>
-Package pdftex.def Info: Chapter6/Figures/Fig9.pdf used on input line 103.
-(pdftex.def)             Requested size: 349.97023pt x 369.49449pt.
-
-<Chapter6/Figures/Fig10.pdf, id=2461, 384.23549pt x 440.96745pt>
-File: Chapter6/Figures/Fig10.pdf Graphic file (type pdf)
-
-<use Chapter6/Figures/Fig10.pdf>
-Package pdftex.def Info: Chapter6/Figures/Fig10.pdf used on input line 112.
-(pdftex.def)             Requested size: 349.97023pt x 401.6578pt.
- [86]) [87] [88 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter6/Figures/Fig8.pd
-f>] [89 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter6/Figures/Fig9.pdf>] [90 
-<C:/Users/Wendy/Documents/wwn20/Thesis/Chapter6/Figures/Fig10.pdf>]
-(C:\Users\Wendy\Documents\wwn20\Thesis\Chapter7/chapter7.tex
-Chapter 7.
-<Chapter7/Figures/Fig1.pdf, id=2539, 967.45442pt x 455.30101pt>
-File: Chapter7/Figures/Fig1.pdf Graphic file (type pdf)
-
-<use Chapter7/Figures/Fig1.pdf>
-Package pdftex.def Info: Chapter7/Figures/Fig1.pdf used on input line 17.
-(pdftex.def)             Requested size: 437.46112pt x 205.87703pt.
- [91
-
-
-
-]
-<Chapter7/Figures/Fig2.pdf, id=2552, 853.7496pt x 953.36174pt>
-File: Chapter7/Figures/Fig2.pdf Graphic file (type pdf)
-
-<use Chapter7/Figures/Fig2.pdf>
-Package pdftex.def Info: Chapter7/Figures/Fig2.pdf used on input line 29.
-(pdftex.def)             Requested size: 437.46112pt x 488.5065pt.
- [92 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig1.pdf>]
-<Chapter7/Figures/Fig3.pdf, id=2574, 853.7496pt x 810.98987pt>
-File: Chapter7/Figures/Fig3.pdf Graphic file (type pdf)
-
-<use Chapter7/Figures/Fig3.pdf>
-Package pdftex.def Info: Chapter7/Figures/Fig3.pdf used on input line 38.
-(pdftex.def)             Requested size: 437.46112pt x 415.55457pt.
-
-<Chapter7/Figures/Fig4.pdf, id=2578, 853.7496pt x 967.45442pt>
-File: Chapter7/Figures/Fig4.pdf Graphic file (type pdf)
-
-<use Chapter7/Figures/Fig4.pdf>
-Package pdftex.def Info: Chapter7/Figures/Fig4.pdf used on input line 49.
-(pdftex.def)             Requested size: 437.46112pt x 495.72765pt.
-
-<Chapter7/Figures/Fig5.pdf, id=2580, 654.40488pt x 654.40488pt>
-File: Chapter7/Figures/Fig5.pdf Graphic file (type pdf)
-
-<use Chapter7/Figures/Fig5.pdf>
-Package pdftex.def Info: Chapter7/Figures/Fig5.pdf used on input line 58.
-(pdftex.def)             Requested size: 262.47934pt x 262.48624pt.
- [93]
-<Chapter7/Figures/Fig6.pdf, id=2587, 853.7496pt x 981.78795pt>
-File: Chapter7/Figures/Fig6.pdf Graphic file (type pdf)
-
-<use Chapter7/Figures/Fig6.pdf>
-Package pdftex.def Info: Chapter7/Figures/Fig6.pdf used on input line 65.
-(pdftex.def)             Requested size: 437.46112pt x 503.0722pt.
-
-<Chapter7/Figures/Fig7.pdf, id=2594, 1024.42723pt x 626.0991pt>
-File: Chapter7/Figures/Fig7.pdf Graphic file (type pdf)
-
-<use Chapter7/Figures/Fig7.pdf>
-Package pdftex.def Info: Chapter7/Figures/Fig7.pdf used on input line 77.
-(pdftex.def)             Requested size: 349.97023pt x 213.8931pt.
-
-<Chapter7/Figures/Fig8.pdf, id=2600, 853.7496pt x 967.45442pt>
-File: Chapter7/Figures/Fig8.pdf Graphic file (type pdf)
-
-<use Chapter7/Figures/Fig8.pdf>
-Package pdftex.def Info: Chapter7/Figures/Fig8.pdf used on input line 85.
-(pdftex.def)             Requested size: 437.46112pt x 495.72765pt.
- [94]
-<Chapter7/Figures/Fig9.pdf, id=2608, 483.84766pt x 597.55246pt>
-File: Chapter7/Figures/Fig9.pdf Graphic file (type pdf)
-
-<use Chapter7/Figures/Fig9.pdf>
-Package pdftex.def Info: Chapter7/Figures/Fig9.pdf used on input line 93.
-(pdftex.def)             Requested size: 349.97023pt x 432.21602pt.
-
-! Undefined control sequence.
-<argument> ...cdot \vec {E}$) profile for $\lamda 
-                                                  =600$\,nm $\theta =40^{\ci...
-l.94 ...or $\lambda=700$\,nm $\theta=30^{\circ}$.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \lamda 
-                       
-l.94 ...or $\lambda=700$\,nm $\theta=30^{\circ}$.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \lamda 
-                       
-l.94 ...or $\lambda=700$\,nm $\theta=30^{\circ}$.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-<Chapter7/Figures/Fig10.pdf, id=2613, 910.602pt x 939.02821pt>
-File: Chapter7/Figures/Fig10.pdf Graphic file (type pdf)
-
-<use Chapter7/Figures/Fig10.pdf>
-Package pdftex.def Info: Chapter7/Figures/Fig10.pdf used on input line 101.
-(pdftex.def)             Requested size: 437.46112pt x 451.1153pt.
-
-<Chapter7/Figures/Fig11.pdf, id=2618, 853.7496pt x 953.36174pt>
-File: Chapter7/Figures/Fig11.pdf Graphic file (type pdf)
-
-<use Chapter7/Figures/Fig11.pdf>
-Package pdftex.def Info: Chapter7/Figures/Fig11.pdf used on input line 110.
-(pdftex.def)             Requested size: 437.46112pt x 488.5065pt.
- [95]
-<Chapter7/Figures/Fig12.pdf, id=2627, 967.45442pt x 882.17581pt>
-File: Chapter7/Figures/Fig12.pdf Graphic file (type pdf)
-
-<use Chapter7/Figures/Fig12.pdf>
-Package pdftex.def Info: Chapter7/Figures/Fig12.pdf used on input line 118.
-(pdftex.def)             Requested size: 437.46112pt x 398.90036pt.
-
-<Chapter7/Figures/Fig13.pdf, id=2630, 910.602pt x 455.30101pt>
-File: Chapter7/Figures/Fig13.pdf Graphic file (type pdf)
-
-<use Chapter7/Figures/Fig13.pdf>
-Package pdftex.def Info: Chapter7/Figures/Fig13.pdf used on input line 126.
-(pdftex.def)             Requested size: 437.46112pt x 218.72957pt.
-
-<Chapter7/Figures/Fig14.pdf, id=2632, 1024.42723pt x 626.0991pt>
-File: Chapter7/Figures/Fig14.pdf Graphic file (type pdf)
-
-<use Chapter7/Figures/Fig14.pdf>
-Package pdftex.def Info: Chapter7/Figures/Fig14.pdf used on input line 135.
-(pdftex.def)             Requested size: 437.46112pt x 267.36398pt.
- [96]
-<Chapter7/Figures/Fig15.pdf, id=2643, 939.02821pt x 583.33932pt>
-File: Chapter7/Figures/Fig15.pdf Graphic file (type pdf)
-
-<use Chapter7/Figures/Fig15.pdf>
-Package pdftex.def Info: Chapter7/Figures/Fig15.pdf used on input line 144.
-(pdftex.def)             Requested size: 437.46112pt x 271.75734pt.
-
-
-LaTeX Warning: Reference `fig2' on page 97 undefined on input line 155.
-
-
-Underfull \vbox (badness 1874) has occurred while \output is active []
-
- [97]
-<Chapter7/Figures/Fig16.pdf, id=2665, 725.5908pt x 412.6617pt>
-File: Chapter7/Figures/Fig16.pdf Graphic file (type pdf)
-
-<use Chapter7/Figures/Fig16.pdf>
-Package pdftex.def Info: Chapter7/Figures/Fig16.pdf used on input line 162.
-(pdftex.def)             Requested size: 349.97023pt x 199.03874pt.
-
-
-LaTeX Warning: Reference `fig3' on page 98 undefined on input line 167.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [98]
-<Chapter7/Figures/Fig17.pdf, id=2679, 853.7496pt x 939.02821pt>
-File: Chapter7/Figures/Fig17.pdf Graphic file (type pdf)
-
-<use Chapter7/Figures/Fig17.pdf>
-Package pdftex.def Info: Chapter7/Figures/Fig17.pdf used on input line 181.
-(pdftex.def)             Requested size: 437.46112pt x 481.16194pt.
-
-
-LaTeX Warning: Reference `fig4' on page 99 undefined on input line 187.
-
-
-LaTeX Warning: Reference `fig4' on page 99 undefined on input line 189.
-
-<Chapter7/Figures/Fig18.pdf, id=2682, 682.95152pt x 796.77673pt>
-File: Chapter7/Figures/Fig18.pdf Graphic file (type pdf)
-
-<use Chapter7/Figures/Fig18.pdf>
-Package pdftex.def Info: Chapter7/Figures/Fig18.pdf used on input line 192.
-(pdftex.def)             Requested size: 349.97023pt x 408.296pt.
- [99]
-
-LaTeX Warning: Reference `fig2' on page 100 undefined on input line 202.
-
-) [100] [101 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig2.pdf>]
-[102 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig3.pdf>]
-[103 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig4.pdf>]
-[104 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig5.pdf>]
-[105 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig6.pdf>]
-[106 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig7.pdf>]
-[107 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig8.pdf>]
-[108 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig9.pdf>]
-[109 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig10.pdf>]
-[110 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig11.pdf>]
-[111 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig12.pdf>]
-[112 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig13.pdf> <C:/Use
-rs/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig14.pdf>] [113 <C:/Users/Wen
-dy/Documents/wwn20/Thesis/Chapter7/Figures/Fig15.pdf> <C:/Users/Wendy/Documents
-/wwn20/Thesis/Chapter7/Figures/Fig16.pdf>] [114 <C:/Users/Wendy/Documents/wwn20
-/Thesis/Chapter7/Figures/Fig17.pdf>] [115 <C:/Users/Wendy/Documents/wwn20/Thesi
-s/Chapter7/Figures/Fig18.pdf>]
-(C:\Users\Wendy\Documents\wwn20\Thesis\Chapter8/chapter8.tex [116
-
-
-
-]
-Chapter 8.
-[117]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [118])
-[119] [120
-
-
-] (C:\Users\Wendy\Documents\wwn20\Thesis\thesis.bbl [121
-
-
-] [122]
-[123] [124] [125] [126]
+] [118] [119] [120]
+[121] [122]
 
 ! Package inputenc Error: Unicode char \u8:̈ not set up for use with LaTeX.
 
@@ -2366,12 +1183,12 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[127] [128] [129])
+[123] [124] [125])
 
 Package natbib Warning: There were undefined citations.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 183.
-[130]
+[126]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 183.
  (C:\Users\Wendy\Documents\wwn20\Thesis\thesis.aux
 (C:\Users\Wendy\Documents\wwn20\Thesis\Dedication/dedication.aux)
@@ -2389,37 +1206,31 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 183.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 183.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 183.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: A0095F07EE9FC59154767F6F19908A83;13996.
-
-
-LaTeX Warning: There were undefined references.
-
+(rerunfilecheck)             Checksum: 39CCBD5D60717F05C8E8352B06AA0FE3;2331.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 745 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 12952 strings out of 494045
- 195934 string characters out of 3148387
- 346855 words of memory out of 3000000
- 15326 multiletter control sequences out of 15000+200000
- 68998 words of font info for 113 fonts, out of 3000000 for 9000
+ 12205 strings out of 494045
+ 180452 string characters out of 3148387
+ 311396 words of memory out of 3000000
+ 14959 multiletter control sequences out of 15000+200000
+ 53554 words of font info for 93 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 38i,15n,51p,2427b,3622s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,13n,45p,1498b,3610s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C
 :/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/symbols/msam10.pfb><C:/Users/Wendy/AppData/Roaming/MiKTeX
-/2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Users/Wendy/AppData/Roaming/MiKTeX/2.9
-/fonts/type1/urw/symbol/usyr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/t
-imes/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (158 pages, 20534044 bytes).
+9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Wendy/AppData/Roaming/MiK
+TeX/2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8
+a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (24 pages, 2600836 bytes).
 PDF statistics:
- 3724 PDF objects out of 4296 (max. 8388607)
- 559 named destinations out of 1000 (max. 500000)
- 991 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 624 PDF objects out of 1000 (max. 8388607)
+ 243 named destinations out of 1000 (max. 500000)
+ 153 words of extra memory for PDF output out of 10000 (max. 10000000)
 
