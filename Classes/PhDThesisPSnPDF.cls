@@ -633,7 +633,9 @@ font in the preamble.tex file by specifying `customfont' in the class options}
 \newenvironment{acknowledgements}{
 \cleardoublepage
 \setsinglecolumn
-\chapter*{\centering \Large Acknowledgements}
+\begin{center}
+		{ \Large {\bfseries {Acknowledgements}} \vspace{8mm}}
+	\end{center}
 \thispagestyle{empty}
 }
 
@@ -734,7 +736,10 @@ font in the preamble.tex file by specifying `customfont' in the class options}
 % Normal abstract in the thesis
 	\cleardoublepage
 	\setsinglecolumn 
-	\chapter*{\centering \Large Abstract}
+	\begin{center}
+		{ \Large {\bfseries {\@title}} \par}
+		{{\large \vspace*{1em} \@author} \par}
+	\end{center}
 	\thispagestyle{empty}
 \fi
 }
