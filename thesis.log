@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.28)  26 OCT 2014 18:27
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.28)  31 OCT 2014 22:14
 entering extended mode
 **thesis.tex
 (C:\Users\Wendy\Documents\wwn20\Thesis\thesis.tex
@@ -1255,7 +1255,6 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
-[12 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig3.pdf>]
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -1264,6 +1263,7 @@ l.111 ...organic molecules have larger $E_g$ (\sim
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+[12 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig3.pdf>]
 ! Undefined control sequence.
 l.115 ..., CHPI), or aromatic molecules (\seqsplit
                                                   {\ce{(C6H5C2H4NH3)2PbI4}},...
@@ -1295,35 +1295,34 @@ File: Chapter2/Figures/Fig7.pdf Graphic file (type pdf)
 Package pdftex.def Info: Chapter2/Figures/Fig7.pdf used on input line 159.
 (pdftex.def)             Requested size: 437.46112pt x 376.7259pt.
  [17 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig7.pdf>]
-<Chapter2/Figures/Fig8.png, id=851, 270.25969pt x 241.65282pt>
+<Chapter2/Figures/Fig8.png, id=852, 270.25969pt x 241.65282pt>
 File: Chapter2/Figures/Fig8.png Graphic file (type png)
 
 <use Chapter2/Figures/Fig8.png>
 Package pdftex.def Info: Chapter2/Figures/Fig8.png used on input line 176.
-(pdftex.def)             Requested size: 262.47934pt x 234.70161pt.
+(pdftex.def)             Requested size: 240.60495pt x 215.14407pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[18] [19 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig8.png>]
-<Chapter2/Figures/Fig10.png, id=890, 540.51938pt x 284.56313pt>
+[18] <Chapter2/Figures/Fig10.png, id=880, 540.51938pt x 284.56313pt>
 File: Chapter2/Figures/Fig10.png Graphic file (type png)
 
 <use Chapter2/Figures/Fig10.png>
 Package pdftex.def Info: Chapter2/Figures/Fig10.png used on input line 197.
 (pdftex.def)             Requested size: 437.46112pt x 230.3125pt.
-
-Underfull \vbox (badness 5878) has occurred while \output is active []
-
- [20 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig10.png>]
-<Chapter2/Figures/Fig11.png, id=907, 796.47563pt x 355.3275pt>
+ [19 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig8.png>]
+<Chapter2/Figures/Fig11.png, id=898, 796.47563pt x 355.3275pt>
 File: Chapter2/Figures/Fig11.png Graphic file (type png)
 
 <use Chapter2/Figures/Fig11.png>
 Package pdftex.def Info: Chapter2/Figures/Fig11.png used on input line 208.
 (pdftex.def)             Requested size: 437.46112pt x 195.15962pt.
 
-<Chapter2/Figures/Fig12.png, id=910, 739.26187pt x 625.58719pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig10.png>]
+<Chapter2/Figures/Fig12.png, id=911, 739.26187pt x 625.58719pt>
 File: Chapter2/Figures/Fig12.png Graphic file (type png)
 
 <use Chapter2/Figures/Fig12.png>
@@ -1378,73 +1377,80 @@ Package pdftex.def Info: Chapter2/Figures/Fig15.png used on input line 258.
 File: Chapter2/Figures/Fig16.png Graphic file (type png)
 
 <use Chapter2/Figures/Fig16.png>
-Package pdftex.def Info: Chapter2/Figures/Fig16.png used on input line 266.
+Package pdftex.def Info: Chapter2/Figures/Fig16.png used on input line 267.
 (pdftex.def)             Requested size: 437.46112pt x 294.49213pt.
  [27 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig16.png>]
 <Chapter2/Figures/Fig17.png, id=1016, 341.02406pt x 227.34938pt>
 File: Chapter2/Figures/Fig17.png Graphic file (type png)
 
 <use Chapter2/Figures/Fig17.png>
-Package pdftex.def Info: Chapter2/Figures/Fig17.png used on input line 275.
-(pdftex.def)             Requested size: 349.97023pt x 233.32602pt.
+Package pdftex.def Info: Chapter2/Figures/Fig17.png used on input line 276.
+(pdftex.def)             Requested size: 306.22144pt x 204.1581pt.
  [28 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig17.png>]
 <Chapter2/Figures/Fig19.pdf, id=1042, 199.22429pt x 128.1588pt>
 File: Chapter2/Figures/Fig19.pdf Graphic file (type pdf)
 
 <use Chapter2/Figures/Fig19.pdf>
-Package pdftex.def Info: Chapter2/Figures/Fig19.pdf used on input line 287.
+Package pdftex.def Info: Chapter2/Figures/Fig19.pdf used on input line 288.
 (pdftex.def)             Requested size: 262.47934pt x 168.85332pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[29] [30 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig19.pdf>]
-<Chapter2/Figures/Fig20.png, id=1076, 540.51938pt x 198.7425pt>
+[29] <Chapter2/Figures/Fig20.png, id=1066, 540.51938pt x 198.7425pt>
 File: Chapter2/Figures/Fig20.png Graphic file (type png)
 
 <use Chapter2/Figures/Fig20.png>
-Package pdftex.def Info: Chapter2/Figures/Fig20.png used on input line 304.
+Package pdftex.def Info: Chapter2/Figures/Fig20.png used on input line 305.
 (pdftex.def)             Requested size: 437.46112pt x 160.85316pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[30 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig19.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [31 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig20.png>]
 <Chapter2/Figures/Fig21.png, id=1104, 569.12625pt x 270.25969pt>
 File: Chapter2/Figures/Fig21.png Graphic file (type png)
 
 <use Chapter2/Figures/Fig21.png>
-Package pdftex.def Info: Chapter2/Figures/Fig21.png used on input line 315.
+Package pdftex.def Info: Chapter2/Figures/Fig21.png used on input line 316.
 (pdftex.def)             Requested size: 437.46112pt x 207.74594pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <Chapter2/Figures/Fig22.png, id=1107, 398.23781pt x 341.02406pt>
 File: Chapter2/Figures/Fig22.png Graphic file (type png)
 
 <use Chapter2/Figures/Fig22.png>
 Package pdftex.def Info: Chapter2/Figures/Fig22.png used on input line 323.
-(pdftex.def)             Requested size: 349.97023pt x 299.70142pt.
+(pdftex.def)             Requested size: 314.97253pt x 269.72867pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[32] <Chapter2/Figures/Fig23.png, id=1126, 341.02406pt x 639.89063pt>
+[32 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig21.png>]
+<Chapter2/Figures/Fig23.png, id=1125, 341.02406pt x 639.89063pt>
 File: Chapter2/Figures/Fig23.png Graphic file (type png)
 
 <use Chapter2/Figures/Fig23.png>
-Package pdftex.def Info: Chapter2/Figures/Fig23.png used on input line 331.
+Package pdftex.def Info: Chapter2/Figures/Fig23.png used on input line 332.
 (pdftex.def)             Requested size: 284.34705pt x 533.57935pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[33 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig21.png>]
-[34 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig22.png>]
 
-LaTeX Warning: Text page 35 contains only floats.
+Underfull \vbox (badness 4995) has occurred while \output is active []
+
+ [33 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig22.png>]
+
+LaTeX Warning: Text page 34 contains only floats.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [35 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig23.png>]) [36]
+ [34 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig23.png>]) [35] 
+[36]
 (C:\Users\Wendy\Documents\wwn20\Thesis\Chapter3/chapter3.tex
 Chapter 3.
 [37
@@ -1555,10 +1561,6 @@ Package pdftex.def Info: Chapter3/Figures/PrismCoupling.pdf used on input line
 105.
 (pdftex.def)             Requested size: 349.97023pt x 98.51244pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [40 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig2.pdf>]
@@ -1568,142 +1570,145 @@ File: Chapter3/Figures/Fig3.png Graphic file (type png)
 <use Chapter3/Figures/Fig3.png>
 Package pdftex.def Info: Chapter3/Figures/Fig3.png used on input line 114.
 (pdftex.def)             Requested size: 437.46112pt x 437.47305pt.
+ [41 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/PrismCoupling.pdf>
+] [42 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig3.png>]
+<Chapter3/Figures/Fig4.pdf, id=1295, 722.7pt x 542.025pt>
+File: Chapter3/Figures/Fig4.pdf Graphic file (type pdf)
+
+<use Chapter3/Figures/Fig4.pdf>
+Package pdftex.def Info: Chapter3/Figures/Fig4.pdf used on input line 149.
+(pdftex.def)             Requested size: 328.09584pt x 246.06763pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[41 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/PrismCoupling.pdf>]
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [42 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig3.png>]
-<Chapter3/Figures/Fig4.pdf, id=1294, 722.7pt x 542.025pt>
-File: Chapter3/Figures/Fig4.pdf Graphic file (type pdf)
-
-<use Chapter3/Figures/Fig4.pdf>
-Package pdftex.def Info: Chapter3/Figures/Fig4.pdf used on input line 145.
-(pdftex.def)             Requested size: 262.47934pt x 196.8574pt.
-
-<Chapter3/Figures/Fig5.png, id=1295, 255.95625pt x 412.54124pt>
+<Chapter3/Figures/Fig5.png, id=1299, 255.95625pt x 412.54124pt>
 File: Chapter3/Figures/Fig5.png Graphic file (type png)
 
 <use Chapter3/Figures/Fig5.png>
-Package pdftex.def Info: Chapter3/Figures/Fig5.png used on input line 152.
+Package pdftex.def Info: Chapter3/Figures/Fig5.png used on input line 157.
 (pdftex.def)             Requested size: 262.47934pt x 423.08412pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[43 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig4.pdf>]
+[43] [44 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig4.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [44 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig5.png>]
-<Chapter3/Figures/Fig6.png, id=1354, 440.39531pt x 312.41719pt>
+ [45 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig5.png>]
+<Chapter3/Figures/Fig6.png, id=1365, 440.39531pt x 312.41719pt>
 File: Chapter3/Figures/Fig6.png Graphic file (type png)
 
 <use Chapter3/Figures/Fig6.png>
-Package pdftex.def Info: Chapter3/Figures/Fig6.png used on input line 178.
+Package pdftex.def Info: Chapter3/Figures/Fig6.png used on input line 179.
 (pdftex.def)             Requested size: 393.71233pt x 279.30893pt.
- [45]
-<Chapter3/Figures/Fig7.pdf, id=1376, 739.8641pt x 554.9734pt>
+
+<Chapter3/Figures/Fig7.pdf, id=1370, 739.8641pt x 554.9734pt>
 File: Chapter3/Figures/Fig7.pdf Graphic file (type pdf)
 
 <use Chapter3/Figures/Fig7.pdf>
-Package pdftex.def Info: Chapter3/Figures/Fig7.pdf used on input line 187.
+Package pdftex.def Info: Chapter3/Figures/Fig7.pdf used on input line 186.
 (pdftex.def)             Requested size: 437.46112pt x 328.14279pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[46 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig6.png>]
+
+Underfull \vbox (badness 3895) has occurred while \output is active []
+
+ [46 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig6.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [47 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig7.pdf>]
-<Chapter3/Figures/Fig8.pdf, id=1430, 398.32814pt x 270.41025pt>
+<Chapter3/Figures/Fig8.pdf, id=1427, 398.32814pt x 270.41025pt>
 File: Chapter3/Figures/Fig8.pdf Graphic file (type pdf)
 
 <use Chapter3/Figures/Fig8.pdf>
-Package pdftex.def Info: Chapter3/Figures/Fig8.pdf used on input line 217.
-(pdftex.def)             Requested size: 349.97023pt x 237.5904pt.
+Package pdftex.def Info: Chapter3/Figures/Fig8.pdf used on input line 218.
+(pdftex.def)             Requested size: 306.22144pt x 207.88643pt.
 
-Underfull \vbox (badness 5802) has occurred while \output is active []
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+! Undefined control sequence.
+<argument> ...} &= k\textrm {Im}[\alpha ] = 4\pik 
+                                                  \left (\frac {d}{2}\right ...
+l.229 \end{align}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...} &= k\textrm {Im}[\alpha ] = 4\pik 
+                                                  \left (\frac {d}{2}\right ...
+l.229 \end{align}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [48pdfTeX warning (ext4): destination with the same identifier (name{equation.
 3.3.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.225 \begin{align}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{equation.3.3.2}) has been already used, duplicate ignored
+l.232 
+      pdfTeX warning (ext4): destination with the same identifier (name{equatio
+n.3.3.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.225 \begin{align}
-                    <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig
-8.pdf>]
-! Undefined control sequence.
-<argument> ...} &= k\textrm {Im}[\alpha ] = 4\pik 
-                                                  \left (\frac {d}{2}\right ...
-l.228 \end{align}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+l.232 
+      pdfTeX warning (ext4): destination with the same identifier (name{equatio
+n.3.3.1}) has been already used, duplicate ignored
 
-pdfTeX warning (ext4): destination with the same identifier (name{equation.3.3.
-1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.228 \end{align}
-                 
-! Undefined control sequence.
-<argument> ...} &= k\textrm {Im}[\alpha ] = 4\pik 
-                                                  \left (\frac {d}{2}\right ...
-l.228 \end{align}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.232 
+      pdfTeX warning (ext4): destination with the same identifier (name{equatio
+n.3.3.2}) has been already used, duplicate ignored
 
-pdfTeX warning (ext4): destination with the same identifier (name{equation.3.3.
-2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.228 \end{align}
-                 
-<Chapter3/Figures/Fig9.pdf, id=1447, 483.78743pt x 426.8748pt>
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.232 
+      ] <Chapter3/Figures/Fig9.pdf, id=1442, 483.78743pt x 426.8748pt>
 File: Chapter3/Figures/Fig9.pdf Graphic file (type pdf)
 
 <use Chapter3/Figures/Fig9.pdf>
-Package pdftex.def Info: Chapter3/Figures/Fig9.pdf used on input line 234.
+Package pdftex.def Info: Chapter3/Figures/Fig9.pdf used on input line 235.
 (pdftex.def)             Requested size: 349.97023pt x 308.80214pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [49 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig9.pdf>]
-<Chapter3/Figures/Fig10.pdf, id=1468, 611.76553pt x 640.31218pt>
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Chapter3/Figures/Fig10.pdf, id=1443, 611.76553pt x 640.31218pt>
 File: Chapter3/Figures/Fig10.pdf Graphic file (type pdf)
 
 <use Chapter3/Figures/Fig10.pdf>
-Package pdftex.def Info: Chapter3/Figures/Fig10.pdf used on input line 243.
+Package pdftex.def Info: Chapter3/Figures/Fig10.pdf used on input line 242.
 (pdftex.def)             Requested size: 437.46112pt x 457.87836pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [50] [51 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig10.pdf>]
-(C:\Users\Wendy\Documents\wwn20\Thesis\Chapter4/chapter4.tex [52
-
-
-
-]
+[49 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig8.pdf>])
+[50 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig9.pdf>] [51 <C:/
+Users/Wendy/Documents/wwn20/Thesis/Chapter3/Figures/Fig10.pdf>] [52]
+(C:\Users\Wendy\Documents\wwn20\Thesis\Chapter4/chapter4.tex
 Chapter 4.
-[53] <Chapter4/Figures/Microscope.pdf, id=1519, 469.51411pt x 497.94029pt>
+[53
+
+
+
+] <Chapter4/Figures/Microscope.pdf, id=1520, 469.51411pt x 497.94029pt>
 File: Chapter4/Figures/Microscope.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/Microscope.pdf>
@@ -1714,7 +1719,7 @@ Package pdftex.def Info: Chapter4/Figures/Microscope.pdf used on input line 18.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [54 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter4/Figures/Microscope.pdf>]
-<Chapter4/Figures/Fig1.pdf, id=1539, 774.01169pt x 739.92432pt>
+<Chapter4/Figures/Fig1.pdf, id=1540, 774.01169pt x 739.92432pt>
 File: Chapter4/Figures/Fig1.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/Fig1.pdf>
@@ -1740,7 +1745,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 37.
 
-<Chapter4/Figures/Fig2.pdf, id=1545, 597.61269pt x 213.4374pt>
+<Chapter4/Figures/Fig2.pdf, id=1546, 597.61269pt x 213.4374pt>
 File: Chapter4/Figures/Fig2.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/Fig2.pdf>
@@ -1754,7 +1759,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Underfull \vbox (badness 3792) has occurred while \output is active []
 
  [56 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter4/Figures/Fig1.pdf>]
-<Chapter4/Figures/Fig3.pdf, id=1581, 597.61269pt x 213.4374pt>
+<Chapter4/Figures/Fig3.pdf, id=1582, 597.61269pt x 213.4374pt>
 File: Chapter4/Figures/Fig3.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/Fig3.pdf>
@@ -1762,14 +1767,14 @@ Package pdftex.def Info: Chapter4/Figures/Fig3.pdf used on input line 53.
 (pdftex.def)             Requested size: 437.46112pt x 156.24113pt.
  [57 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter4/Figures/Fig2.pdf> <C:/User
 s/Wendy/Documents/wwn20/Thesis/Chapter4/Figures/Fig3.pdf>] <Chapter4/Figures/Fi
-g4.pdf, id=1611, 597.61269pt x 711.43796pt>
+g4.pdf, id=1612, 597.61269pt x 711.43796pt>
 File: Chapter4/Figures/Fig4.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/Fig4.pdf>
 Package pdftex.def Info: Chapter4/Figures/Fig4.pdf used on input line 63.
 (pdftex.def)             Requested size: 284.34705pt x 338.51189pt.
 
-<Chapter4/Figures/Fig5.pdf, id=1617, 774.01169pt x 1081.27965pt>
+<Chapter4/Figures/Fig5.pdf, id=1618, 774.01169pt x 1081.27965pt>
 File: Chapter4/Figures/Fig5.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/Fig5.pdf>
@@ -1784,7 +1789,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Warning: Text page 59 contains only floats.
 
 [59 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter4/Figures/Fig5.pdf>]
-<Chapter4/Figures/Fig6.pdf, id=1668, 597.55246pt x 711.37767pt>
+<Chapter4/Figures/Fig6.pdf, id=1669, 597.55246pt x 711.37767pt>
 File: Chapter4/Figures/Fig6.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/Fig6.pdf>
@@ -1798,7 +1803,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 91.
 
-<Chapter4/Figures/Fig7.pdf, id=1677, 597.61269pt x 640.25195pt>
+<Chapter4/Figures/Fig7.pdf, id=1678, 597.61269pt x 640.25195pt>
 File: Chapter4/Figures/Fig7.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/Fig7.pdf>
@@ -1813,7 +1818,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [61 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter4/Figures/Fig6.pdf>] [62 <C:
 /Users/Wendy/Documents/wwn20/Thesis/Chapter4/Figures/Fig7.pdf>]
-<Chapter4/Figures/Fig8.pdf, id=1742, 668.73839pt x 355.68884pt>
+<Chapter4/Figures/Fig8.pdf, id=1743, 668.73839pt x 355.68884pt>
 File: Chapter4/Figures/Fig8.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/Fig8.pdf>
@@ -1822,7 +1827,7 @@ Package pdftex.def Info: Chapter4/Figures/Fig8.pdf used on input line 102.
  [63 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter4/Figures/Fig8.pdf>]) [64]
 (C:\Users\Wendy\Documents\wwn20\Thesis\Chapter5/chapter5.tex
 Chapter 5.
-<Chapter5/Figures/Fig1.pdf, id=1775, 910.602pt x 512.1534pt>
+<Chapter5/Figures/Fig1.pdf, id=1776, 910.602pt x 512.1534pt>
 File: Chapter5/Figures/Fig1.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/Fig1.pdf>
@@ -1832,7 +1837,7 @@ Package pdftex.def Info: Chapter5/Figures/Fig1.pdf used on input line 43.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Chapter5/Figures/Fig2.png, id=1780, 1336.995pt x 697.10437pt>
+<Chapter5/Figures/Fig2.png, id=1781, 1336.995pt x 697.10437pt>
 File: Chapter5/Figures/Fig2.png Graphic file (type png)
 
 <use Chapter5/Figures/Fig2.png>
@@ -1846,7 +1851,7 @@ Package pdftex.def Info: Chapter5/Figures/Fig2.png used on input line 52.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Chapter5/Figures/Fig3.pdf, id=1790, 597.61269pt x 569.12625pt>
+<Chapter5/Figures/Fig3.pdf, id=1791, 597.61269pt x 569.12625pt>
 File: Chapter5/Figures/Fig3.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/Fig3.pdf>
@@ -1860,10 +1865,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Underfull \vbox (badness 1424) has occurred while \output is active []
 
  [66 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter5/Figures/Fig1.pdf>]
-Underfull \vbox (badness 2884) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [67 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter5/Figures/Fig2.png>]
-<Chapter5/Figures/Fig4.pdf, id=1864, 626.0991pt x 455.30101pt>
+<Chapter5/Figures/Fig4.pdf, id=1862, 626.0991pt x 455.30101pt>
 File: Chapter5/Figures/Fig4.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/Fig4.pdf>
@@ -1874,25 +1879,18 @@ Package pdftex.def Info: Chapter5/Figures/Fig4.pdf used on input line 79.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \vbox (badness 3209) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [68 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter5/Figures/Fig3.pdf>]
-<Chapter5/Figures/Fig5.pdf, id=1891, 455.30101pt x 455.30101pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [69 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter5/Figures/Fig4.pdf>]
+<Chapter5/Figures/Fig5.pdf, id=1925, 455.30101pt x 455.30101pt>
 File: Chapter5/Figures/Fig5.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/Fig5.pdf>
 Package pdftex.def Info: Chapter5/Figures/Fig5.pdf used on input line 88.
 (pdftex.def)             Requested size: 349.97023pt x 349.97844pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [69 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter5/Figures/Fig4.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [70 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter5/Figures/Fig5.pdf>])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1903,14 +1901,14 @@ Chapter 6.
 
 
 
-] <Chapter6/Figures/Fig1.pdf, id=1999, 1280.50392pt x 597.55246pt>
+] <Chapter6/Figures/Fig1.pdf, id=2000, 1280.50392pt x 597.55246pt>
 File: Chapter6/Figures/Fig1.pdf Graphic file (type pdf)
 
 <use Chapter6/Figures/Fig1.pdf>
 Package pdftex.def Info: Chapter6/Figures/Fig1.pdf used on input line 23.
 (pdftex.def)             Requested size: 437.46112pt x 204.14076pt.
 
-<Chapter6/Figures/Fig2.pdf, id=2005, 455.30101pt x 483.84766pt>
+<Chapter6/Figures/Fig2.pdf, id=2006, 455.30101pt x 483.84766pt>
 File: Chapter6/Figures/Fig2.pdf Graphic file (type pdf)
 
 <use Chapter6/Figures/Fig2.pdf>
@@ -1918,21 +1916,21 @@ Package pdftex.def Info: Chapter6/Figures/Fig2.pdf used on input line 32.
 (pdftex.def)             Requested size: 371.84462pt x 395.17032pt.
  [74 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter6/Figures/Fig1.pdf>] [75 <C:
 /Users/Wendy/Documents/wwn20/Thesis/Chapter6/Figures/Fig2.pdf>]
-<Chapter6/Figures/Fig3.pdf, id=2046, 768.35052pt x 469.51411pt>
+<Chapter6/Figures/Fig3.pdf, id=2047, 768.35052pt x 469.51411pt>
 File: Chapter6/Figures/Fig3.pdf Graphic file (type pdf)
 
 <use Chapter6/Figures/Fig3.pdf>
 Package pdftex.def Info: Chapter6/Figures/Fig3.pdf used on input line 41.
 (pdftex.def)             Requested size: 437.46112pt x 267.31776pt.
  [76 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter6/Figures/Fig3.pdf>]
-<Chapter6/Figures/Fig4.pdf, id=2072, 1280.50392pt x 597.55246pt>
+<Chapter6/Figures/Fig4.pdf, id=2073, 1280.50392pt x 597.55246pt>
 File: Chapter6/Figures/Fig4.pdf Graphic file (type pdf)
 
 <use Chapter6/Figures/Fig4.pdf>
 Package pdftex.def Info: Chapter6/Figures/Fig4.pdf used on input line 52.
 (pdftex.def)             Requested size: 437.46112pt x 204.14076pt.
 
-<Chapter6/Figures/Fig5.pdf, id=2076, 455.30101pt x 483.84766pt>
+<Chapter6/Figures/Fig5.pdf, id=2077, 455.30101pt x 483.84766pt>
 File: Chapter6/Figures/Fig5.pdf Graphic file (type pdf)
 
 <use Chapter6/Figures/Fig5.pdf>
@@ -1942,7 +1940,7 @@ Package pdftex.def Info: Chapter6/Figures/Fig5.pdf used on input line 62.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Chapter6/Figures/Fig6.pdf, id=2081, 739.8641pt x 796.71652pt>
+<Chapter6/Figures/Fig6.pdf, id=2082, 739.8641pt x 796.71652pt>
 File: Chapter6/Figures/Fig6.pdf Graphic file (type pdf)
 
 <use Chapter6/Figures/Fig6.pdf>
@@ -1958,7 +1956,7 @@ Overfull \hbox (6.35858pt too wide) in paragraph at lines 69--76
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Chapter6/Figures/Fig7.pdf, id=2107, 768.35052pt x 469.51411pt>
+<Chapter6/Figures/Fig7.pdf, id=2108, 768.35052pt x 469.51411pt>
 File: Chapter6/Figures/Fig7.pdf Graphic file (type pdf)
 
 <use Chapter6/Figures/Fig7.pdf>
@@ -1968,47 +1966,35 @@ Package pdftex.def Info: Chapter6/Figures/Fig7.pdf used on input line 81.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.85 ... the exciton wavelength by 5\,nm  (\lambda
-                                                  _{ex}=500$\,nm), as well a...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
 [78 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter6/Figures/Fig5.pdf>]
 Underfull \vbox (badness 1558) has occurred while \output is active []
 
  [79 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter6/Figures/Fig6.pdf>]
-<Chapter6/Figures/Fig8.pdf, id=2142, 768.35052pt x 768.35052pt>
+<Chapter6/Figures/Fig8.pdf, id=2149, 768.35052pt x 768.35052pt>
 File: Chapter6/Figures/Fig8.pdf Graphic file (type pdf)
 
 <use Chapter6/Figures/Fig8.pdf>
-Package pdftex.def Info: Chapter6/Figures/Fig8.pdf used on input line 91.
+Package pdftex.def Info: Chapter6/Figures/Fig8.pdf used on input line 93.
 (pdftex.def)             Requested size: 437.46112pt x 437.46022pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[80 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter6/Figures/Fig7.pdf>]
+ [80 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter6/Figures/Fig7.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [81 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter6/Figures/Fig8.pdf>]
-<Chapter6/Figures/Fig9.pdf, id=2207, 512.1534pt x 483.78743pt>
+<Chapter6/Figures/Fig9.pdf, id=2208, 512.1534pt x 483.78743pt>
 File: Chapter6/Figures/Fig9.pdf Graphic file (type pdf)
 
 <use Chapter6/Figures/Fig9.pdf>
-Package pdftex.def Info: Chapter6/Figures/Fig9.pdf used on input line 104.
+Package pdftex.def Info: Chapter6/Figures/Fig9.pdf used on input line 105.
 (pdftex.def)             Requested size: 349.97023pt x 330.60252pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[82] <Chapter6/Figures/Fig10.pdf, id=2225, 384.17526pt x 441.02768pt>
+[82] <Chapter6/Figures/Fig10.pdf, id=2226, 384.17526pt x 441.02768pt>
 File: Chapter6/Figures/Fig10.pdf Graphic file (type pdf)
 
 <use Chapter6/Figures/Fig10.pdf>
-Package pdftex.def Info: Chapter6/Figures/Fig10.pdf used on input line 118.
+Package pdftex.def Info: Chapter6/Figures/Fig10.pdf used on input line 119.
 (pdftex.def)             Requested size: 306.22144pt x 351.55074pt.
  [83 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter6/Figures/Fig9.pdf>] [84 <C:
 /Users/Wendy/Documents/wwn20/Thesis/Chapter6/Figures/Fig10.pdf>]) [85]
@@ -2018,7 +2004,7 @@ Package pdftex.def Info: Chapter6/Figures/Fig10.pdf used on input line 118.
 
 ]
 Chapter 7.
-<Chapter7/Figures/Fig1.pdf, id=2278, 796.71652pt x 682.95152pt>
+<Chapter7/Figures/Fig1.pdf, id=2279, 796.71652pt x 682.95152pt>
 File: Chapter7/Figures/Fig1.pdf Graphic file (type pdf)
 
 <use Chapter7/Figures/Fig1.pdf>
@@ -2028,12 +2014,12 @@ Package pdftex.def Info: Chapter7/Figures/Fig1.pdf used on input line 16.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[87] <Chapter7/Figures/Fig2.png, id=2288, 853.68938pt x 1052.43187pt>
+[87] <Chapter7/Figures/Fig2.png, id=2289, 853.68938pt x 1052.43187pt>
 File: Chapter7/Figures/Fig2.png Graphic file (type png)
 
 <use Chapter7/Figures/Fig2.png>
 Package pdftex.def Info: Chapter7/Figures/Fig2.png used on input line 24.
-(pdftex.def)             Requested size: 437.46112pt x 539.31862pt.
+(pdftex.def)             Requested size: 415.58672pt x 512.33984pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2046,18 +2032,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 LaTeX Warning: Text page 89 contains only floats.
 
 
-Overfull \vbox (1.53348pt too high) has occurred while \output is active []
+Underfull \vbox (badness 4181) has occurred while \output is active []
 
-
-[89 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig2.png>]
-<Chapter7/Figures/Fig3.png, id=2321, 853.68938pt x 938.75719pt>
+ [89 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig2.png>]
+<Chapter7/Figures/Fig3.png, id=2322, 853.68938pt x 938.75719pt>
 File: Chapter7/Figures/Fig3.png Graphic file (type png)
 
 <use Chapter7/Figures/Fig3.png>
 Package pdftex.def Info: Chapter7/Figures/Fig3.png used on input line 35.
 (pdftex.def)             Requested size: 437.46112pt x 481.06604pt.
 
-<Chapter7/Figures/Fig4.png, id=2325, 853.68938pt x 1052.43187pt>
+<Chapter7/Figures/Fig4.png, id=2326, 853.68938pt x 1052.43187pt>
 File: Chapter7/Figures/Fig4.png Graphic file (type png)
 
 <use Chapter7/Figures/Fig4.png>
@@ -2076,14 +2061,14 @@ Overfull \vbox (1.53348pt too high) has occurred while \output is active []
 
 
 [92 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig4.png>]
-<Chapter7/Figures/Fig5.png, id=2349, 711.4078pt x 654.19406pt>
+<Chapter7/Figures/Fig5.png, id=2350, 711.4078pt x 654.19406pt>
 File: Chapter7/Figures/Fig5.png Graphic file (type png)
 
 <use Chapter7/Figures/Fig5.png>
 Package pdftex.def Info: Chapter7/Figures/Fig5.png used on input line 58.
-(pdftex.def)             Requested size: 349.97023pt x 321.83562pt.
+(pdftex.def)             Requested size: 314.97253pt x 289.65305pt.
 
-<Chapter7/Figures/Fig6.png, id=2350, 853.68938pt x 1052.43187pt>
+<Chapter7/Figures/Fig6.png, id=2351, 853.68938pt x 1052.43187pt>
 File: Chapter7/Figures/Fig6.png Graphic file (type png)
 
 <use Chapter7/Figures/Fig6.png>
@@ -2101,21 +2086,24 @@ LaTeX Warning: Text page 94 contains only floats.
 Underfull \vbox (badness 4181) has occurred while \output is active []
 
  [94 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig6.png>]
-<Chapter7/Figures/Fig7.png, id=2372, 1023.825pt x 625.58719pt>
+<Chapter7/Figures/Fig7.png, id=2370, 1023.825pt x 625.58719pt>
 File: Chapter7/Figures/Fig7.png Graphic file (type png)
 
 <use Chapter7/Figures/Fig7.png>
-Package pdftex.def Info: Chapter7/Figures/Fig7.png used on input line 78.
+Package pdftex.def Info: Chapter7/Figures/Fig7.png used on input line 73.
 (pdftex.def)             Requested size: 437.46112pt x 267.29811pt.
 
-<Chapter7/Figures/Fig8.png, id=2373, 853.68938pt x 1038.12843pt>
+<Chapter7/Figures/Fig8.png, id=2374, 853.68938pt x 1038.12843pt>
 File: Chapter7/Figures/Fig8.png Graphic file (type png)
 
 <use Chapter7/Figures/Fig8.png>
 Package pdftex.def Info: Chapter7/Figures/Fig8.png used on input line 85.
-(pdftex.def)             Requested size: 437.46112pt x 531.98883pt.
- [95 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig7.png>]
-<Chapter7/Figures/Fig9.png, id=2380, 483.30562pt x 639.89063pt>
+(pdftex.def)             Requested size: 415.58672pt x 505.37671pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Chapter7/Figures/Fig9.png, id=2375, 483.30562pt x 639.89063pt>
 File: Chapter7/Figures/Fig9.png Graphic file (type png)
 
 <use Chapter7/Figures/Fig9.png>
@@ -2138,16 +2126,23 @@ l.93 ...$\lambda=700$\,nm$,\,	\theta=30^{\circ}$.}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-[96 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig8.png>] [97 <C:/
-Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig9.png>]
-<Chapter7/Figures/Fig10.png, id=2407, 910.15031pt x 938.75719pt>
+[95 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig7.png>]
+
+LaTeX Warning: Text page 96 contains only floats.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [96 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig8.png>] [97 <C:
+/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig9.png>]
+<Chapter7/Figures/Fig10.png, id=2408, 910.15031pt x 938.75719pt>
 File: Chapter7/Figures/Fig10.png Graphic file (type png)
 
 <use Chapter7/Figures/Fig10.png>
 Package pdftex.def Info: Chapter7/Figures/Fig10.png used on input line 104.
 (pdftex.def)             Requested size: 437.46112pt x 451.21428pt.
 
-<Chapter7/Figures/Fig11.png, id=2408, 853.68938pt x 1038.12843pt>
+<Chapter7/Figures/Fig11.png, id=2409, 853.68938pt x 1038.12843pt>
 File: Chapter7/Figures/Fig11.png Graphic file (type png)
 
 <use Chapter7/Figures/Fig11.png>
@@ -2165,15 +2160,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Warning: Text page 100 contains only floats.
 
-[100 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig11.png>]
-<Chapter7/Figures/Fig12.png, id=2434, 967.36406pt x 881.54344pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [100 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig11.png>]
+<Chapter7/Figures/Fig12.png, id=2435, 967.36406pt x 881.54344pt>
 File: Chapter7/Figures/Fig12.png Graphic file (type png)
 
 <use Chapter7/Figures/Fig12.png>
 Package pdftex.def Info: Chapter7/Figures/Fig12.png used on input line 121.
 (pdftex.def)             Requested size: 437.46112pt x 398.65477pt.
 
-<Chapter7/Figures/Fig13.png, id=2439, 910.15031pt x 454.69875pt>
+<Chapter7/Figures/Fig13.png, id=2440, 910.15031pt x 454.69875pt>
 File: Chapter7/Figures/Fig13.png Graphic file (type png)
 
 <use Chapter7/Figures/Fig13.png>
@@ -2183,7 +2181,7 @@ Package pdftex.def Info: Chapter7/Figures/Fig13.png used on input line 129.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Chapter7/Figures/Fig14.png, id=2440, 1023.825pt x 625.58719pt>
+<Chapter7/Figures/Fig14.png, id=2441, 1023.825pt x 625.58719pt>
 File: Chapter7/Figures/Fig14.png Graphic file (type png)
 
 <use Chapter7/Figures/Fig14.png>
@@ -2199,7 +2197,7 @@ LaTeX Warning: Text page 103 contains only floats.
 
 [103 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig13.png> <C:/Use
 rs/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig14.png>]
-<Chapter7/Figures/Fig15.png, id=2469, 953.06062pt x 639.89063pt>
+<Chapter7/Figures/Fig15.png, id=2470, 953.06062pt x 639.89063pt>
 File: Chapter7/Figures/Fig15.png Graphic file (type png)
 
 <use Chapter7/Figures/Fig15.png>
@@ -2213,7 +2211,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [104]
-<Chapter7/Figures/Fig16.png, id=2487, 724.95844pt x 412.54124pt>
+<Chapter7/Figures/Fig16.png, id=2488, 724.95844pt x 412.54124pt>
 File: Chapter7/Figures/Fig16.png Graphic file (type png)
 
 <use Chapter7/Figures/Fig16.png>
@@ -2224,7 +2222,7 @@ Package pdftex.def Info: Chapter7/Figures/Fig16.png used on input line 163.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [105 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig15.png>]
-<Chapter7/Figures/Fig17.png, id=2505, 853.68938pt x 1038.12843pt>
+<Chapter7/Figures/Fig17.png, id=2506, 853.68938pt x 1038.12843pt>
 File: Chapter7/Figures/Fig17.png Graphic file (type png)
 
 <use Chapter7/Figures/Fig17.png>
@@ -2242,7 +2240,7 @@ LaTeX Warning: Text page 107 contains only floats.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [107 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig17.png>]
-<Chapter7/Figures/Fig18.png, id=2523, 682.80093pt x 796.47563pt>
+<Chapter7/Figures/Fig18.png, id=2524, 682.80093pt x 796.47563pt>
 File: Chapter7/Figures/Fig18.png Graphic file (type png)
 
 <use Chapter7/Figures/Fig18.png>
@@ -2328,11 +2326,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 185.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 185.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 185.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: B97E360972EABAD92EF49C6EE952637D;12921.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+(rerunfilecheck)             Checksum: 5F89EA79C9084A3AAFB9D0D1807D5DD2;12965.
  )
 (\end occurred inside a group at level 1)
 
@@ -2341,7 +2335,7 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Here is how much of TeX's memory you used:
  14723 strings out of 494045
  227673 string characters out of 3148387
- 380807 words of memory out of 3000000
+ 380975 words of memory out of 3000000
  16859 multiletter control sequences out of 15000+200000
  86137 words of font info for 264 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
@@ -2356,9 +2350,9 @@ type1/public/amsfonts/symbols/msam10.pfb><C:/Users/Wendy/AppData/Roaming/MiKTeX
 /fonts/type1/urw/symbol/usyr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/t
 imes/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><
 C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (141 pages, 23673210 bytes).
+Output written on thesis.pdf (141 pages, 23674560 bytes).
 PDF statistics:
- 2816 PDF objects out of 2984 (max. 8388607)
+ 2818 PDF objects out of 2984 (max. 8388607)
  554 named destinations out of 1000 (max. 500000)
  45464 words of extra memory for PDF output out of 51595 (max. 10000000)
 
