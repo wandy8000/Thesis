@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.28)  31 OCT 2014 22:14
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.28)  1 NOV 2014 12:05
 entering extended mode
 **thesis.tex
 (C:\Users\Wendy\Documents\wwn20\Thesis\thesis.tex
@@ -1923,12 +1923,12 @@ File: Chapter6/Figures/Fig3.pdf Graphic file (type pdf)
 Package pdftex.def Info: Chapter6/Figures/Fig3.pdf used on input line 41.
 (pdftex.def)             Requested size: 437.46112pt x 267.31776pt.
  [76 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter6/Figures/Fig3.pdf>]
-<Chapter6/Figures/Fig4.pdf, id=2073, 1280.50392pt x 597.55246pt>
+<Chapter6/Figures/Fig4.pdf, id=2073, 1280.50392pt x 611.76553pt>
 File: Chapter6/Figures/Fig4.pdf Graphic file (type pdf)
 
 <use Chapter6/Figures/Fig4.pdf>
 Package pdftex.def Info: Chapter6/Figures/Fig4.pdf used on input line 52.
-(pdftex.def)             Requested size: 437.46112pt x 204.14076pt.
+(pdftex.def)             Requested size: 437.46112pt x 208.99635pt.
 
 <Chapter6/Figures/Fig5.pdf, id=2077, 455.30101pt x 483.84766pt>
 File: Chapter6/Figures/Fig5.pdf Graphic file (type pdf)
@@ -2350,7 +2350,7 @@ type1/public/amsfonts/symbols/msam10.pfb><C:/Users/Wendy/AppData/Roaming/MiKTeX
 /fonts/type1/urw/symbol/usyr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/t
 imes/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><
 C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (141 pages, 23674560 bytes).
+Output written on thesis.pdf (141 pages, 23672283 bytes).
 PDF statistics:
  2818 PDF objects out of 2984 (max. 8388607)
  554 named destinations out of 1000 (max. 500000)
