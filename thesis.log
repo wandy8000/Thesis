@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.28)  22 FEB 2015 23:50
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.28)  8 MAR 2015 16:36
 entering extended mode
 **thesis.tex
 (C:\Users\Wendy\Documents\wwn20\Thesis\thesis.tex
@@ -1251,14 +1251,6 @@ Package pdftex.def Info: Chapter2/Figures/Fig3.pdf used on input line 111.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.117 ...organic molecules have larger $E_g$ (\sim
-                                                  6$\,eV) than the inorganic...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
 [12 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter2/Figures/Fig3.pdf>]
 ! Undefined control sequence.
 l.121 ..., CHPI), or aromatic molecules (\seqsplit
@@ -2120,7 +2112,7 @@ Package pdftex.def Info: Chapter7/Figures/Fig9.png used on input line 95.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.96 ...$\lambda=700$\,nm$,\,	\theta=30^{\circ}$.}
+l.96 ...$\lambda=700$\,nm,\,	$\theta=30^{\circ}$.}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2128,7 +2120,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.96 ...$\lambda=700$\,nm$,\,	\theta=30^{\circ}$.}
+l.96 ...$\lambda=700$\,nm,\,	$\theta=30^{\circ}$.}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2269,10 +2261,10 @@ Chapter 8.
 [113]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [114])
+ [114]
 Underfull \vbox (badness 3668) has occurred while \output is active []
 
- [115]
+ [115])
 [116] (C:\Users\Wendy\Documents\wwn20\Thesis\thesis.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 87--89
 []\T1/ptm/m/n/12 (+20) URL [][]$http : / / www . leb . eei . uni-[]erlangen . d
@@ -2312,7 +2304,21 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[124] [125] [126])
+[124] [125] [126]
+
+! Package inputenc Error: Unicode char \u8:́ not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1872 ...ibfnamefont{A.}~\bibnamefont{Bréhier}}
+                                                  ,
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 185.
  [127]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 185.
@@ -2340,10 +2346,10 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 ### semi simple group (level 1) entered at line 750 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 14724 strings out of 494045
- 227677 string characters out of 3148387
- 381734 words of memory out of 3000000
- 16861 multiletter control sequences out of 15000+200000
+ 14729 strings out of 494045
+ 227752 string characters out of 3148387
+ 382107 words of memory out of 3000000
+ 16865 multiletter control sequences out of 15000+200000
  85912 words of font info for 262 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  42i,16n,54p,2378b,4759s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2357,9 +2363,9 @@ type1/public/amsfonts/symbols/msam10.pfb><C:/Users/Wendy/AppData/Roaming/MiKTeX
 /fonts/type1/urw/symbol/usyr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/t
 imes/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><
 C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (143 pages, 23687043 bytes).
+Output written on thesis.pdf (143 pages, 23685996 bytes).
 PDF statistics:
- 2840 PDF objects out of 2984 (max. 8388607)
- 556 named destinations out of 1000 (max. 500000)
+ 2842 PDF objects out of 2984 (max. 8388607)
+ 557 named destinations out of 1000 (max. 500000)
  45464 words of extra memory for PDF output out of 51595 (max. 10000000)
 
