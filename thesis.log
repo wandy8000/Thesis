@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.28)  8 MAR 2015 16:36
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.9.28)  28 MAR 2015 00:49
 entering extended mode
 **thesis.tex
 (C:\Users\Wendy\Documents\wwn20\Thesis\thesis.tex
@@ -2233,6 +2233,17 @@ Package pdftex.def Info: Chapter7/Figures/Fig17.png used on input line 184.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<Chapter7/Figures/Fig18.png, id=2526, 682.80093pt x 796.47563pt>
+File: Chapter7/Figures/Fig18.png Graphic file (type png)
+
+<use Chapter7/Figures/Fig18.png>
+Package pdftex.def Info: Chapter7/Figures/Fig18.png used on input line 205.
+(pdftex.def)             Requested size: 349.97023pt x 408.23894pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--212
+
+ []
+
 
 Underfull \vbox (badness 4084) has occurred while \output is active []
 
@@ -2243,15 +2254,9 @@ LaTeX Warning: Text page 108 contains only floats.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [108 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig17.png>]
-<Chapter7/Figures/Fig18.png, id=2538, 682.80093pt x 796.47563pt>
-File: Chapter7/Figures/Fig18.png Graphic file (type png)
-
-<use Chapter7/Figures/Fig18.png>
-Package pdftex.def Info: Chapter7/Figures/Fig18.png used on input line 206.
-(pdftex.def)             Requested size: 349.97023pt x 408.23894pt.
- [109 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig18.png>] [110]
-) [111]
+ [108 <C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig17.png>] [109 
+<C:/Users/Wendy/Documents/wwn20/Thesis/Chapter7/Figures/Fig18.png>] [110]) [111
+]
 (C:\Users\Wendy\Documents\wwn20\Thesis\Chapter8/chapter8.tex [112
 
 
@@ -2348,7 +2353,7 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 Here is how much of TeX's memory you used:
  14729 strings out of 494045
  227752 string characters out of 3148387
- 382107 words of memory out of 3000000
+ 382578 words of memory out of 3000000
  16865 multiletter control sequences out of 15000+200000
  85912 words of font info for 262 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
@@ -2363,7 +2368,7 @@ type1/public/amsfonts/symbols/msam10.pfb><C:/Users/Wendy/AppData/Roaming/MiKTeX
 /fonts/type1/urw/symbol/usyr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/t
 imes/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><
 C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (143 pages, 23685996 bytes).
+Output written on thesis.pdf (143 pages, 23686170 bytes).
 PDF statistics:
  2842 PDF objects out of 2984 (max. 8388607)
  557 named destinations out of 1000 (max. 500000)
